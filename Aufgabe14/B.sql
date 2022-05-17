@@ -1,0 +1,3 @@
+DELETE
+FROM buecher
+WHERE isbn = 9783871347108;

@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS ausleihen;
+DROP TABLE IF EXISTS vormerkungen;
+DROP TABLE IF EXISTS exemplare;
+DROP TABLE IF EXISTS benutzer;
+DROP TABLE IF EXISTS buecher;
