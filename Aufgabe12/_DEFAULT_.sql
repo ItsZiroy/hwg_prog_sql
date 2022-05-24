@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS Benutzer
     "Straße/Nr"    varchar(256),
     PLZ            int4,
     Ort            varchar,
-    offeneBebueren float4
+    offeneGebueren float4
 );
 CREATE TABLE IF NOT EXISTS Buecher
 (
